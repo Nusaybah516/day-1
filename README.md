@@ -89,3 +89,71 @@ This survey form is about money heist
 
 </body> 
 </html>
+
+
+body{ 
+    background:url("lcdp\ mask.jpg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    height: 150vh;
+}
+h1{
+    color: darkred;
+    font-family: Arial;
+    font-size: large;
+    font-weight: bolder;
+}
+p{
+    color:navy;
+    font-family: Arial;
+    font-size: medium;
+    font-weight: normal;   
+}
+h2{
+    color:navy;
+    font-family: Arial;
+    font-size: medium;
+    font-weight: normal; 
+}
+h3{
+    color:navy;
+    font-family: Arial;
+    font-size: medium;
+    font-weight: normal; 
+}
+h4{
+    color:navy;
+    font-family: Arial;
+    font-size: medium;
+    font-weight: normal; 
+}
+h5{
+    color:navy;
+    font-family: Arial;
+    font-size: medium;
+    font-weight: normal; 
+}
+h6{
+    color: navy;
+    font-family: Arial;
+    font-size: medium;
+    font-weight: bolder; 
+}
+p{
+    color: navy;
+    font-family: Arial;
+    font-size: medium;
+    font-weight: normal; 
+}
+h7{
+    color:blueviolet;
+    font-family: Arial;
+    font-size: medium;
+    font-weight: normal; 
+}
+p{
+    color: black;
+    font-family: Arial;
+    font-size: small;
+    font-weight: normal; 
+}
